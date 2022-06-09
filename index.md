@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Daniela's Git"
 ---
 
 I'm glad you are here. I plan to talk about ...
